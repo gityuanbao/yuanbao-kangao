@@ -22,6 +22,10 @@
 
 ## 使用
 
+### 第一次使用：配置 AI
+
+![四步配置 AI：进入设置、选择服务商、粘贴官方 API Key、绑定后快速切换](assets/tutorial/tutorial-configure-ai.png)
+
 ### 四步开始锐评
 
 ![四步开始锐评：选择投稿分区、填写稿件标题、粘贴或导入稿件、点击开始锐评](assets/tutorial/tutorial-start-review.png)
@@ -29,6 +33,10 @@
 ### 看懂锐评结果
 
 ![锐评结果包含稿件热力值、留存趋势、原稿批注和优先修改动作](assets/tutorial/tutorial-read-result.png)
+
+### 了解评判标准
+
+![评判标准包含分析逻辑、九个分区的差异、三层评分与分数档位](assets/tutorial/tutorial-rating-standards.png)
 
 ### 文字版步骤
 
