@@ -10,7 +10,7 @@
     <a href="#隐私与授权">隐私与授权</a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/版本-v0.11.3-FB7299?style=flat-square" alt="版本 v0.11.3">
+    <img src="https://img.shields.io/badge/版本-v0.12.0-FB7299?style=flat-square" alt="版本 v0.12.0">
     <img src="https://img.shields.io/badge/macOS-11%2B-00AEEC?style=flat-square" alt="macOS 11+">
     <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-00AEEC?style=flat-square" alt="Windows 10 / 11">
     <img src="https://img.shields.io/badge/授权-免费使用%20·%20非开源-18191C?style=flat-square" alt="免费使用，非开源">
@@ -32,19 +32,19 @@
 
 ## 下载
 
-当前版本：**v0.11.3**
+当前版本：**v0.12.0**
 
 | 系统 | 下载 | 适用范围 |
 | --- | --- | --- |
-| macOS 11+ | [**下载 macOS 版**](https://github.com/gityuanbao/yuanbao-kangao/releases/download/desktop-v0.11.3/YuanbaoKangao_0.11.3_macOS_Universal.dmg) | Apple 芯片与 Intel 芯片 |
-| Windows 10 / 11 | [**下载 Windows 版（推荐）**](https://github.com/gityuanbao/yuanbao-kangao/releases/download/desktop-v0.11.3/YuanbaoKangao_0.11.3_Windows_x64_Setup.exe) | 64 位普通用户 |
+| macOS 11+ | [**下载 macOS 版**](https://github.com/gityuanbao/yuanbao-kangao/releases/download/desktop-v0.12.0/YuanbaoKangao_0.12.0_macOS_Universal.dmg) | Apple 芯片与 Intel 芯片 |
+| Windows 10 / 11 | [**下载 Windows 版（推荐）**](https://github.com/gityuanbao/yuanbao-kangao/releases/download/desktop-v0.12.0/YuanbaoKangao_0.12.0_Windows_x64_Setup.exe) | 64 位普通用户 |
 
-[查看完整发布页](https://github.com/gityuanbao/yuanbao-kangao/releases/tag/desktop-v0.11.3) · [查看安装说明](https://github.com/gityuanbao/yuanbao-kangao/releases/download/desktop-v0.11.3/Install-Guide-zh-CN.txt)
+[查看完整发布页](https://github.com/gityuanbao/yuanbao-kangao/releases/tag/desktop-v0.12.0) · [查看安装说明](https://github.com/gityuanbao/yuanbao-kangao/releases/download/desktop-v0.12.0/Install-Guide-zh-CN.txt)
 
 <details>
 <summary><strong>管理员部署与文件校验</strong></summary>
 
-[Windows MSI 安装包](https://github.com/gityuanbao/yuanbao-kangao/releases/download/desktop-v0.11.3/YuanbaoKangao_0.11.3_Windows_x64_zh-CN.msi) · [SHA-256 校验文件](https://github.com/gityuanbao/yuanbao-kangao/releases/download/desktop-v0.11.3/SHA256SUMS.txt)
+[Windows MSI 安装包](https://github.com/gityuanbao/yuanbao-kangao/releases/download/desktop-v0.12.0/YuanbaoKangao_0.12.0_Windows_x64_zh-CN.msi) · [SHA-256 校验文件](https://github.com/gityuanbao/yuanbao-kangao/releases/download/desktop-v0.12.0/SHA256SUMS.txt)
 
 </details>
 
